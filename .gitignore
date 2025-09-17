@@ -2,3 +2,6 @@
 wandb
 ml-1m/
 models/
+checkpoints/
+min_max_scaler.save
+bst_model.pth
